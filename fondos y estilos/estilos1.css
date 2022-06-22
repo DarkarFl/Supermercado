@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: arial;
+    background-image: url('fondo1.jpg') ;
+  }
+  #carrusel{
+    display: block;
+    width: 1500px;
+    height: 500px;
+  }
+  #parrafo{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.434) ;
+}
