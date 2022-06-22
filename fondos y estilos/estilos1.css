@@ -51,5 +51,13 @@
     background: #023b97;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#reseña{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.434) ;
+    color:white;
+    
 }
 
